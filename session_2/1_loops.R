@@ -1,5 +1,5 @@
 ###R for biologists
-##Bea & Irina, 14/02/2025
+##Bea & Cristian, 02/04/2025
 
 ###Testing the truth value of an expression####
 1 < 2

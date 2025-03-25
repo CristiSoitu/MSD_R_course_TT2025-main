@@ -1,5 +1,5 @@
 ###R for biologists
-##Bea & Irina, 14/02/2025
+##Bea & Cristian, 02/04/2025
 
 ####Functions are also assigned to variables####
 add <- function(first, second) return(first + second)
